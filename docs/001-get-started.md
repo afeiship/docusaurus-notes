@@ -4,7 +4,9 @@
 - https://docusaurus.io/docs/
 
 
-## install cli
+## steps
+1. create a sites by cli
 ```shell
-npm install --global docusaurus-init
+# create a sites
+npx @docusaurus/init@latest init websites classic
 ```
